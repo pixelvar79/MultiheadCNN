@@ -114,7 +114,7 @@ def custom_loss_2(y_true, y_pred):
 custom_losses = {
     'dense_0': custom_loss_0,
     'dense_1': custom_loss_1,
-    'dense_2': custom_loss_1
+    'dense_2': custom_loss_2
 }
 
 # Compile the model with custom losses for each output
