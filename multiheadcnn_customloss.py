@@ -120,7 +120,7 @@ custom_losses = {
 # Compile the model with custom losses for each output
 model1.compile(optimizer='adam', loss=custom_losses, metrics=['mae'])
 
-# Train the model with masked y3_train
+# Train the model with full y1, y2 and masked y3_train
 model1.fit(X_train, {'dense_0': y1_train, 'dense_1': y2_train, 'dense_2': y3_train}, epochs=10, batch_size=32, validation_split=0.2)
 
 # Evaluate the model on the test data
