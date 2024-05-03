@@ -16,6 +16,10 @@ A single-trait (ST) 3D-CNN was implemented to predict each trait (culm length, c
 A multi-trait (MT) 3D-CNN was implemented to simultaneously predict each of the three traits.
 The performance of each approach was evaluated in unseen (i.e., testing) data via MAE, MAPE, R2 metrics.
 
+[1] Varela, S.; Zheng, X.; Njuguna, J.N.; Sacks, E.J.; Allen, D.P.; Ruhter, J.; Leakey, A.D.B. Deep Convolutional Neural Networks Exploit High-Spatial- and -Temporal-Resolution Aerial Imagery to Phenotype Key Traits in Miscanthus. Remote Sens. 2022, 14, 5333.
+[2] Crawshaw, M. 2020. Multi-task learning with deep neural networks: A survey. arXiv preprint arXiv:2009.09796 (2020).
+[3] Caruana, R. (1997). Multitask learning. Machine learning, 28, 41-75
+
 
 
 -------
