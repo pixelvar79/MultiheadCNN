@@ -26,7 +26,7 @@ The performance of each approach was evaluated in unseen (i.e., testing) data vi
 -------
 
 <p align="center">
-  <img src="Screenshot1.png">
+  <img src="Screenshot 2024-05-03 073833.png">
 </p>
 
 
