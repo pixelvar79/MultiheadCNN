@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Determining critical traits in bienergy crops using aerial imagery and a multitrait learning strategy</h1> 
+<h1 style="text-align: center;">Determining critical traits in bienergy crops using aerial imagery and a multi-trait learning strategy</h1> 
 
 -------
 -------
@@ -9,7 +9,7 @@ Large-scale plant breeding in crops like Miscanthus faces challenges such as lon
 
 A sequence of images are used as inputs into a spatiotemporal 3D- Convolutional Neural Network (3D-CNN) architecture [1] to determine key-traits such as culm length, culm basal outer diameter, and biomass in Miscanthus. 
 
-A Multitask Learning (MTL) strategy was integrated into the 3D-CNN as efficient method of extracting multiple phenotypic traits by simultaneously learning them from the same input imagery which can contribute to improve the predictive ability and reduce manual phenotyping in the field.
+A Multi-task Learning (MTL) strategy was integrated into the 3D-CNN as efficient method of extracting multiple phenotypic traits by simultaneously learning them from the same input imagery which can contribute to improve the predictive ability and reduce manual phenotyping in the field.
 
 To test our hypothesis, this work is organized as follows:
 A single-trait (ST) 3D-CNN was implemented to predict each trait (culm length, culm basal outer diameter, biomass) of interest.
